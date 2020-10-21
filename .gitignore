@@ -1,0 +1,5 @@
+cargo
+bazel-bin
+bazel-hello_world
+bazel-out
+bazel-testlogs
